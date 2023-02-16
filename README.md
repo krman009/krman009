@@ -1,13 +1,15 @@
 ## Hey `lovelyPerson` on the planet! I hope you're having a goodDay() 😉
 
 ### So what do I do? 👷
-- Currently working as `__Python__` & `javaScript()` developer at [Odoo India](https://odoo.com).
+- I am a `__Python__` & `javaScript()` developer from India.
+- I have 4.5 yrs of experience in Odoo India, I have worked in various departments: R&D, Offshore, Upgrades (Migration). 
+- I am passionate more about `Odoo`, `SCSS` and `JavaScript`.
 
 ### My favourite languages or You can ask me about
 1. &lt;html>
-2. CSS, Sass { I_love_css: '∞' }
-3. javaScript()
-4. Life
+2. CSS, Sass { I_love_css: 'a lot' }
+4. javaScript()
+5. Life
 
 ### Umm.. what should be the title of this section! Meh! 🤔
 - I will be very happy if you can follow me here *(on GitHub)* or on [Twitter](https://twitter.com/kmandalwala) 😉
