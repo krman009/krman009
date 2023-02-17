@@ -1,8 +1,8 @@
 ## Hey `lovelyPerson` on the planet! I hope you're having a goodDay() 😉
 
 ### So what do I do? 👷
-- I am a `__Python__` & `javaScript()` developer from India.
-- I have 4.5 yrs of experience in Odoo India, I have worked in various departments: R&D, Offshore, Upgrades (Migration). 
+- I am a `__Python__` & `javaScript()` developer from Gujarat,India.
+- I have 4.5 yrs of experience in Odoo Development from Odoo India (Tiny ERP), I have worked in various departments: R&D, Offshore, Upgrades (Migration). 
 - I am passionate more about `Odoo`, `SCSS` and `JavaScript`.
 
 ### My favourite languages or You can ask me about
