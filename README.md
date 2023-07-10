@@ -18,7 +18,9 @@
 
 ### What do I do in my free time or when I'm not coding?
 - I manage my expenses in a Google Sheet.
-- I go for a walk (maybe) with my wife.
+- I learn Odoo in a functional way.
+- I learn financial management, and investing from videos on YouTube.
+- I go for a walk (maybe).
 
 #### *Thanks for paying a visit to my profile, I wish you have a very good ['morning', 'afternoon', 'evening', 'night']*
 
