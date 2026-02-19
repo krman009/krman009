@@ -4,7 +4,7 @@
 - I am a `__Python__` & `javaScript()` developer from Ahmedabad (Gujarat), India.
 - I have 5+ years of experience in Odoo Development.
 - I am passionate more about `Odoo`, `SCSS` and `JavaScript`.
-- Currently working as `Senior UI Developer` at `Brainvire Infotech` (Ahmedabad) in the Odoo department.
+- Currently working as `Team Lead - Odoo` at `Brainvire Infotech` (Ahmedabad) in the Odoo department.
 
 ### My favourite things/ or You can ask me about,
 1. &lt;html>
